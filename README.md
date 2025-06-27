@@ -1,5 +1,5 @@
-## Hi there 👋
-# 💫 About Me:
+# <p align="center">Hi there, I'm Satomi 👋</p>
+## 💫 About Me:
 💬 Ask me about HTML, CSS, TypeScript, JavaScript, React, Vue<br>📫 How to reach me stm.nagano.wk20@gmail.com<br>🌱 I’m currently learning Ruby on Rails<br>👨‍💻 All of my projects are available at https://sn-akikaze.vercel.app/<br>⚡ Fun fact I love games like Playstation and Nintendo
 
 
